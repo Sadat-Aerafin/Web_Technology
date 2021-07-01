@@ -1,0 +1,6 @@
+<?php include 'header.php'; ?>
+
+<p>1.Eos sanctus amet elitr erat dolore lorem sit voluptua sit rebum, stet sit et et et magna ut sit lorem sed. Invidunt gubergren diam ipsum et nonumy stet dolore dolor sit, dolores gubergren invidunt clita rebum justo sit clita. Et dolore labore sea est eirmod sit lorem. Sed et voluptua accusam duo dolor sit. Et dolor at sadipscing vero, eos eos voluptua sit elitr erat sit. At ea et nonumy accusam, rebum ut erat sed lorem aliquyam ut takimata justo. Et ipsum ipsum eirmod et sed duo dolor rebum dolor, voluptua dolores dolores dolores dolores accusam. Amet labore clita no.</p>
+<p>2.Accusam sed stet consetetur lorem nonumy et et. Sit eirmod diam dolor sadipscing lorem nonumy eirmod duo dolor, nonumy dolor et lorem voluptua ut amet consetetur gubergren, accusam duo et sanctus ipsum eirmod, sadipscing lorem voluptua ipsum consetetur lorem labore rebum. Et stet eos aliquyam sed sit dolor ipsum invidunt. Sadipscing voluptua eirmod et eirmod et ipsum kasd rebum. Et sadipscing invidunt stet et duo et, ipsum dolor et amet sanctus rebum rebum no no, ea sadipscing tempor est elitr sed takimata, dolor ut sit et sadipscing voluptua. Kasd consetetur.</p>
+
+<?php include 'footer.php'; ?>
